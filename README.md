@@ -1,7 +1,7 @@
 # PacMan
-Exercise on a pacman animation that moves back and forth.  
+A PacMan game where you can spawn in PacMen, they have a random velocity, and they bounce around when you press start.  
 ## PacMan Animation  
-This is my **first** project with code that I'm submitting with GitHub. It's quite exciting to think about all the project that are soon to come thanks to the **amazing** people at MIT | Xpro online bootcamp.  
+**add a description**  
 ### Installation
 How to view and/or use this project  
 - Download Files
@@ -18,10 +18,6 @@ Open the HTML file in your browser and the animation should begin.
 Facebook - *[Samuel Crow](www.facebook.com/samuel.crow.104/)*  
 Email - AweSamCode@gmail.com
 ### Roadmap  
-It would be a lot of fun to make pacman do the following:  
-- Go up and down
-- Be controlable with arrow keys
-- Let hit eat stuff
-- Make him into the full game  
+**add ideas**   
 ### License information  
 Code from MIT | Xpro and Samuel Crow.
