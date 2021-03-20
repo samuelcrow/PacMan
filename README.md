@@ -23,5 +23,5 @@ It would be a lot of fun to make pacman do the following:
 - Be controlable with arrow keys
 - Let hit eat stuff
 - Make him into the full game  
-##### License information  
+### License information  
 Code from MIT | Xpro and Samuel Crow.
